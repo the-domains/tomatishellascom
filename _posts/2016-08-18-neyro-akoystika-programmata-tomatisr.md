@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-18T08:45:51.878Z'
+datePublished: '2016-08-18T08:47:36.318Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 author: []
 via: {}
-dateModified: '2016-08-18T08:45:51.075Z'
-title: Νευρο -Ακουστικά Προγράμματα Tomatis®
+dateModified: '2016-08-18T08:47:35.826Z'
+title: Νευρο -Ακουστικά Προγράμματα Tomatis® στο σχολείο
 publisher: {}
 description: >-
   Τα Νευρο - Ακουστικά Προγράμματα Tomatis® παρέχουν ακουστική διέγερση, η οποία
@@ -19,7 +19,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb72c55-85d4-421a-a404-45e67e00553d.jpg)
 
-# Νευρο -Ακουστικά Προγράμματα Tomatis(r)
+# Νευρο -Ακουστικά Προγράμματα Tomatis(r) στο σχολείο
 
 Τα **Νευρο - Ακουστικά Προγράμματα Tomatis**(r) παρέχουν ακουστική διέγερση, η οποία ενισχύει την δυναμική της μάθησης και στοχεύουν στην ανάπτυξη του εύρους της προσοχής.
 
