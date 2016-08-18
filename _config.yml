@@ -6,9 +6,9 @@ color:
   saturation: 0.17786051821894944
   rhythmicContrast: 0.8921695400495082
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FEFEFE'
+    - '#B17551'
+    - '#181319'
+    - '#534D4D'
+    - '#B9B5B1'
 name: tomatishellas.com
