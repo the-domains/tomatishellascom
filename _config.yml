@@ -1,0 +1,14 @@
+layout_spectrum: 0.5344134878832847
+typography_spectrum: 0.4595291721634567
+color:
+  brandStrength: 0.2643731483258307
+  lightness: 0.5105542012024671
+  saturation: 0.17786051821894944
+  rhythmicContrast: 0.8921695400495082
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: tomatishellas.com
