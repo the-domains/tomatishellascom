@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T09:11:45.370Z'
+datePublished: '2016-08-18T09:26:40.603Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 author: []
 via: {}
-dateModified: '2016-08-18T09:11:44.285Z'
+dateModified: '2016-08-18T09:26:40.483Z'
 title: Νευρο -Ακουστικά Προγράμματα Tomatis® στο σχολείο
 publisher: {}
 description: >-
