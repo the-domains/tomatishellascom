@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-19T12:26:05.578Z'
+datePublished: '2016-08-19T20:20:45.305Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T12:26:04.748Z'
+dateModified: '2016-08-19T20:20:44.766Z'
 title: 'Τα Νευρο -Ακουστικά Προγράμματα Tomatis® Hellas είναι:'
 publisher:
-  name: ''
+  name: Tomatis® Hellas
 description: >-
   Τα Νευρο - Ακουστικά Προγράμματα Tomatis® συμπληρώνονται από ειδική γλωσσική
   εκπαίδευση, με βάση τις αρχές της ακουστικής ανάδρασης, το οποίο βοηθά τα
