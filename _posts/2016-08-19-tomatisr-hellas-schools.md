@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T20:54:34.203Z'
+datePublished: '2016-08-19T21:29:53.946Z'
 isBasedOnUrl: 'http://tomatishellas.gr'
 keywords:
   - nginx
@@ -15,14 +15,14 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T20:54:26.379Z'
+dateModified: '2016-08-19T21:29:53.862Z'
 title: Tomatis®  Hellas / Schools
 app_links: []
 publisher: {}
 description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
