@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T21:36:08.036Z'
+datePublished: '2016-08-19T21:37:06.816Z'
 sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
 author: []
 via: {}
-dateModified: '2016-08-19T21:36:07.352Z'
+dateModified: '2016-08-19T21:37:06.249Z'
 title: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
 publisher:
   name: Tomatis® Hellas
@@ -14,11 +14,10 @@ description: >-
   το προς στιγμήν, έργο μας. Στις μέρες μας, η έλλειψη προσοχής δημιουργεί πολλά
   προβλήματα στις σχολικές τάξεις και οδηγεί σε μια γενική πτώση το γνωστικό
   επίπεδο των μαθητών.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: h-tomatisr-hellas--phgainei-sto-sxoleio/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ead900e2-266b-4191-a002-ad40bac1d411.png)
