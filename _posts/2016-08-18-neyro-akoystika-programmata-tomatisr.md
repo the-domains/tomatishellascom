@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T21:41:24.300Z'
+datePublished: '2016-08-19T21:42:54.579Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T21:40:45.405Z'
+dateModified: '2016-08-19T21:42:53.938Z'
 title: 'Τα Νευρο -Ακουστικά Προγράμματα Tomatis® Hellas είναι:'
 publisher:
   name: Tomatis® Hellas
@@ -14,7 +14,7 @@ description: >-
   παιδιά να βελτιώσουν τις ακουστικές δεξιότητες επεξεργασίας, όπως η φωνητική
   ευαισθητοποίηση και η ακουστική μνήμη.
 starred: false
-url: neyro-akoystika-programmata-tomatisr-einai/index.html
+url: ta-neyro-akoystika-programmata-tomatisr-hellas-einai/index.html
 _type: Blurb
 
 ---
