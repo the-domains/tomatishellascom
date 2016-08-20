@@ -21,8 +21,5 @@ navigation:
   - name: tomatis® hellas / schools
     url: 'http://tomatishellas.com'
     type: external
-  - name: 'Τα Νευρο -Ακουστικά Προγράμματα Tomatis® Hellas είναι:'
-    id: 6c175dcb-aba9-47ed-a404-0b791a967c59
-    type: content
 title: tomatis®  hellas / schools
 description: Νευρο - Ακουστικά Προγράμματα Τomatis®
