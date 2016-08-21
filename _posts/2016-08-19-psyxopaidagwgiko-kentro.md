@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T13:34:41.130Z'
+datePublished: '2016-08-21T13:35:05.664Z'
 sourcePath: _posts/2016-08-19-psyxopaidagwgiko-kentro.md
 author: []
 via: {}
-dateModified: '2016-08-21T13:14:32.514Z'
+dateModified: '2016-08-21T13:35:04.909Z'
 title: Επικοινωνία
 publisher:
   name: Tomatis® Hellas
@@ -11,11 +11,10 @@ publisher:
 description: >-
   Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας
   υποδέχεται για παροχή πληροφοριών και συμβουλών, χωρίς καμία δέσμευση.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: epikoinwnia/index.html
+_type: Blurb
 
 ---
 # Επικοινωνία
