@@ -14,9 +14,9 @@ metadata:
   publisher: {}
   via: {}
   sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-dateModified: '2016-08-20T21:22:16.379Z'
+dateModified: '2016-08-20T21:23:34.930Z'
 title: Η Μέθοδος Τomatis® για εγκύους
-datePublished: '2016-08-20T21:22:30.130Z'
+datePublished: '2016-08-20T21:23:37.048Z'
 author: []
 description: >-
   Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί όλες
@@ -26,12 +26,11 @@ description: >-
   εξαιρετικής περιόδου επικοινωνίας.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: h-me8odos-tomatisr-gia-egkyoys/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072ab54f-6b4f-4317-affc-15d3319139a8.jpg)
