@@ -1,5 +1,9 @@
 ---
-id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
+datePublished: '2016-08-20T21:26:27.108Z'
+sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
+hasPage: true
+author: []
+via: {}
 metadata:
   description: >-
     Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί
@@ -14,28 +18,23 @@ metadata:
   publisher: {}
   via: {}
   sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-dateModified: '2016-08-20T21:23:34.930Z'
+dateModified: '2016-08-20T21:26:15.524Z'
 title: Η Μέθοδος Τomatis® για εγκύους
-datePublished: '2016-08-20T21:23:37.048Z'
-author: []
+id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
+publisher: {}
 description: >-
   Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί όλες
   τις ψυχολογικές και συναισθηματικές καταστάσεις που βιώνει, τόσο τις θετικές
   όσο και τις αρνητικές. Εξ αυτού, είναι σημαντικό, η μέλλουσα μητέρα να βιώνει
   τις καλύτερες συνθήκες χαλάρωσης και γαλήνης κατά την διάρκεια αυτής της
   εξαιρετικής περιόδου επικοινωνίας.
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-hasPage: true
 starred: false
 url: h-me8odos-tomatisr-gia-egkyoys/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072ab54f-6b4f-4317-affc-15d3319139a8.jpg)
-
 # Η Μέθοδος Τomatis(r) για εγκύους
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072ab54f-6b4f-4317-affc-15d3319139a8.jpg)
 
 ### Προετοιμασία Τοκετού
 
