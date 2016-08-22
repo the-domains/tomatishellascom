@@ -17,5 +17,9 @@ author:
   url: 'http://tomatishellas.com'
 name: Tomatis®  Hellas / Schools
 style: taylor
+navigation:
+  - name: Νευρο-Ακουστικά Προγράμματα-Tomatis® Hellas / Schools
+    id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
+    type: content
 title: tomatis®  hellas / schools
 description: Νευρο - Ακουστικά Προγράμματα Τomatis®
