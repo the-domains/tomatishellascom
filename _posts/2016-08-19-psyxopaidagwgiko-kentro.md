@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T10:01:38.721Z'
+datePublished: '2016-08-22T10:18:48.240Z'
 sourcePath: _posts/2016-08-19-psyxopaidagwgiko-kentro.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T10:01:38.101Z'
+dateModified: '2016-08-22T10:18:47.198Z'
 title: Επικοινωνία
 publisher:
   name: Tomatis® Hellas
