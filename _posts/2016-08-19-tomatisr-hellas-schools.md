@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-22T22:30:42.555Z'
+datePublished: '2016-08-22T23:25:08.997Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
 metadata:
@@ -32,7 +32,7 @@ metadata:
   publisher: {}
   description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
   inLanguage: en
-dateModified: '2016-08-22T22:30:41.900Z'
+dateModified: '2016-08-22T23:25:08.478Z'
 title: Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
@@ -43,8 +43,7 @@ description: >-
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 starred: true
-url: tomatisr-hellas-schools/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Tomatis(r) Hellas / Schools
@@ -69,7 +68,7 @@ _type: Article
 
 Τα προγράμματα εφαρμόζονται μέσω της συσκευής, **TalksUp(r) **_byTomatis_**, **η οποία έχει σχεδιαστεί για να ρυθμίζει το ακουστικό σύστημα των μαθητών, να αποκαθιστά την δυναμική της ακρόασης και να διευκολύνει τη διαδικασία της αποκωδικοποίησης των ακουστικών πληροφοριών.
 
-Η συσκευή, **TalksUp(r) **_byTomatis,_ συνδέεται, με ακουστικά αγωγιμότητας "οστών" και "αέρος", και επιτρέπει την μετάδοση των μουσικών ήχων, μέσω δύο διαύλων.
+Η συσκευή, **TalksUp(r) **_byTomatis,_ συνδέεται, με ακουστικά αγωγιμότητας "οστών" και "αέρος" και επιτρέπει την μετάδοση των μουσικών ήχων, μέσω δύο διαύλων.
 
 ### Για περισσότερες πληροφορίες, τα σχολεία και οι σύλλογοι γονέων και κηδεμόνων, μπορούν να επικοινωνούν μαζί μας:
 
