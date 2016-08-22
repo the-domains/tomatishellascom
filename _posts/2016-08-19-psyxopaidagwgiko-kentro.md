@@ -14,9 +14,9 @@ metadata:
   description: >-
     Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας
     υποδέχεται για παροχή πληροφοριών και συμβουλών, χωρίς καμία δέσμευση.
-dateModified: '2016-08-22T16:24:37.317Z'
+dateModified: '2016-08-22T16:25:50.377Z'
 title: Επικοινωνία
-datePublished: '2016-08-22T16:24:37.409Z'
+datePublished: '2016-08-22T16:25:50.562Z'
 author: []
 description: >-
   Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας
@@ -25,8 +25,8 @@ publisher:
   name: Tomatis® Hellas
   url: 'http://tomatishellas.com'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-psyxopaidagwgiko-kentro.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
