@@ -20,9 +20,6 @@ navigation:
   - name: Tomatis® Hellas / Schools
     id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
     type: content
-  - name: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
-    id: 7211e46b-250c-4a0e-a2b2-adf2fbba74e3
-    type: content
   - name: Μέθοδος Τomatis® για εγκύους
     id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
     type: content
