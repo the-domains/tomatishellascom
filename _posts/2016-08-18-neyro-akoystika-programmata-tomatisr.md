@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T21:51:38.336Z'
+datePublished: '2016-08-21T21:53:06.278Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T21:51:37.345Z'
+dateModified: '2016-08-21T21:53:05.668Z'
 title: ''
 publisher:
   name: Tomatis® Hellas
