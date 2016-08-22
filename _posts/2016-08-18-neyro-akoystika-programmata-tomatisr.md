@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T22:38:44.255Z'
+datePublished: '2016-08-22T22:43:46.761Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T22:38:43.573Z'
+dateModified: '2016-08-22T22:43:46.052Z'
 title: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
 publisher:
   name: Tomatis® Hellas
