@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-22T20:57:25.303Z'
+datePublished: '2016-08-22T21:09:08.689Z'
 sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T20:57:25.142Z'
+dateModified: '2016-08-22T21:09:08.108Z'
 title: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
 publisher:
   name: Tomatis® Hellas
+  url: 'http://tomatishellas.com'
 description: >-
   Η Τomatis® Ηellas, επίσημο Κέντρο Εφαρμογής της Μεθόδου Τomatis®, προσφέρει
   την Μέθοδο Τomatis®, τώρα και … στα σχολεία!
