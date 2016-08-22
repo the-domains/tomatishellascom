@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T08:28:04.804Z'
+datePublished: '2016-08-22T09:04:11.781Z'
 sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T08:28:03.913Z'
-title: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
+dateModified: '2016-08-22T09:04:11.112Z'
+title: Tomatis® Ηellas … goes to School !
 publisher:
   name: Tomatis® Hellas
 description: >-
@@ -17,8 +17,10 @@ url: h-tomatisr-hellas--phgainei-sto-sxoleio/index.html
 _type: Blurb
 
 ---
-## η Tomatis(r) Ηellas ... πηγαίνει στο σχολείο!
+## Tomatis(r) Ηellas ... goes to School !
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ead900e2-266b-4191-a002-ad40bac1d411.png)
+
+## η Tomatis(r) Ηellas ... πηγαίνει στο σχολείο!
 
 Η Μέθοδος Τomatis(r), η Παιδαγωγική της Ακρόασης, είναι ένα πρωτοποριακό, δοκιμασμένο και ερευνητικά εδραιωμένο, εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 
