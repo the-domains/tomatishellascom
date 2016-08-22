@@ -30,9 +30,9 @@ metadata:
     θετικές όσο και τις αρνητικές. Εξ αυτού, είναι σημαντικό, η μέλλουσα μητέρα
     να βιώνει τις καλύτερες συνθήκες χαλάρωσης και γαλήνης κατά την διάρκεια
     αυτής της εξαιρετικής περιόδου επικοινωνίας.
-dateModified: '2016-08-22T20:49:46.144Z'
+dateModified: '2016-08-22T21:09:30.365Z'
 title: Μέθοδος Τomatis® για εγκύους
-datePublished: '2016-08-22T20:54:31.509Z'
+datePublished: '2016-08-22T21:09:31.050Z'
 author: []
 description: >-
   Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί όλες
@@ -42,12 +42,11 @@ description: >-
   εξαιρετικής περιόδου επικοινωνίας.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: me8odos-tomatisr-gia-egkyoys/index.html
+_type: Blurb
 
 ---
 # Μέθοδος Τomatis(r) για εγκύους
