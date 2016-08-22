@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T09:56:36.591Z'
+datePublished: '2016-08-22T10:03:13.300Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T09:56:35.499Z'
-title: Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas
+dateModified: '2016-08-22T10:03:12.716Z'
+title: Νευρο-Ακουστικά Προγράμματα Tomatis® από την Τomatis® Ηellas
 publisher:
   name: Tomatis® Hellas
 description: >-
@@ -19,7 +19,7 @@ _type: Blurb
 ---
 ![Tomatis® Hellas / Schools](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9590c2-5e7a-4630-959d-407fe846f64c.png)
 
-### Νευρο-Ακουστικά Προγράμματα Tomatis(r) Hellas
+### Νευρο-Ακουστικά Προγράμματα Tomatis(r) από την Τomatis(r) Ηellas
 
 Η **Μέθοδος Τomatis(r)**, η Παιδαγωγική της Ακρόασης, είναι ένα δοκιμασμένο και ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 
