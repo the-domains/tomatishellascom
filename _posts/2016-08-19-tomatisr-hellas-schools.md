@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T10:17:20.368Z'
+datePublished: '2016-08-22T10:49:51.374Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 author: []
 via: {}
@@ -30,7 +30,7 @@ metadata:
   publisher: {}
   description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
   inLanguage: en
-dateModified: '2016-08-22T10:17:19.600Z'
+dateModified: '2016-08-22T10:49:50.323Z'
 title: Νευρο-Ακουστικά Προγράμματα-Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
