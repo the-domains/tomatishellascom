@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T21:02:15.668Z'
+datePublished: '2016-08-21T21:04:41.561Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 author: []
 via: {}
@@ -30,7 +30,7 @@ metadata:
   publisher: {}
   description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
   inLanguage: en
-dateModified: '2016-08-21T21:02:15.151Z'
+dateModified: '2016-08-21T21:04:41.006Z'
 title: Νευρο-Ακουστικά Προγράμματα
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher: {}
@@ -66,10 +66,13 @@ _type: MediaObject
 
 Η συσκευή, **TalksUp(r) **_byTomatis,_ συνδέεται, με ακουστικά αγωγιμότητας "οστών" και "αέρος", και επιτρέπει την μετάδοση των μουσικών ήχων, μέσω δύο διαύλων.
 
-### Για περισσότερες πληροφορίες, τα σχολεία και οι σύλλογοι γονέων και κηδεμόνων, μπορούν να επικοινωνούν μαζί μας:   
-Tel: +30 2299 11 2171  
-e-mail: tomatishellas@gmail.com   
-Για την Τomatis(r) Hellas / Schools  
-Αικατερίνα Καλοστύπη, BSc, PGD  
+### Για περισσότερες πληροφορίες, τα σχολεία και οι σύλλογοι γονέων και κηδεμόνων, μπορούν να επικοινωνούν μαζί μας: 
+
+### Tel: +30 2299 11 2171  
+e-mail: tomatishellas@gmail.com 
+
+### Για την Τomatis(r) Hellas / Schools,
+
+### Αικατερίνα Καλοστύπη, _BSc, PGD_  
 Ψυχοπαιδαγωγός  
 Licenced & Certified Tomatis(r) Consultant
