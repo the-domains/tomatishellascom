@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-22T22:11:27.661Z'
+datePublished: '2016-08-22T22:31:49.314Z'
 sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
@@ -34,7 +35,7 @@ metadata:
     θετικές όσο και τις αρνητικές. Εξ αυτού, είναι σημαντικό, η μέλλουσα μητέρα
     να βιώνει τις καλύτερες συνθήκες χαλάρωσης και γαλήνης κατά την διάρκεια
     αυτής της εξαιρετικής περιόδου επικοινωνίας.
-dateModified: '2016-08-22T22:01:49.041Z'
+dateModified: '2016-08-22T22:31:48.755Z'
 title: Μέθοδος Τomatis® για εγκύους
 id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
 publisher:
@@ -48,7 +49,7 @@ description: >-
   εξαιρετικής περιόδου επικοινωνίας.
 starred: false
 url: me8odos-tomatisr-gia-egkyoys/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Μέθοδος Τomatis(r) για εγκύους
