@@ -1,24 +1,26 @@
 ---
-datePublished: '2016-08-22T20:29:47.660Z'
+datePublished: '2016-08-22T20:47:02.435Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T20:29:46.935Z'
-title: Νευρο-Ακουστικά Προγράμματα Tomatis® από την Τomatis® Ηellas
+dateModified: '2016-08-22T20:47:01.458Z'
+title: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
 publisher:
   name: Tomatis® Hellas
-description: Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools
+description: >-
+  Η Μέθοδος Τomatis®, η Παιδαγωγική της Ακρόασης, είναι ένα δοκιμασμένο και
+  ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
+  πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 starred: false
 url: neyro-akoystika-programmata-tomatisr-apo-thn-tomatisr-hellas/index.html
 _type: Blurb
 
 ---
+# Νευρο-Ακουστικά Προγράμματα Tomatis(r) Ηellas / Schools
 ![Tomatis® Hellas / Schools](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9590c2-5e7a-4630-959d-407fe846f64c.png)
 
-### Νευρο-Ακουστικά Προγράμματα Tomatis(r) από την Τomatis(r) Ηellas
-
-**Τα Νευρο-Ακουστικά Προγράμματα Tomatis(r) Hellas / Schools**
+### **Τα Νευρο-Ακουστικά Προγράμματα Tomatis(r) Hellas / Schools**
 
 * Βασίζονται, κυρίως, στις επιστημονικές αρχές που αναπτύχθηκαν από τον Δρ Alfred Tomatis (1920-2001).
 * Βελτιώνουν την αντίληψη και την ανάλυση των πληροφοριών που προσλαμβάνονται από τα αισθητήρια όργανα.
