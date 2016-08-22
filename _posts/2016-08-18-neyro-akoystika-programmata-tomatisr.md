@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T07:51:55.793Z'
+datePublished: '2016-08-22T08:08:54.489Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T07:51:30.371Z'
-title: 'Νευρο - Ακουστικά Προγράμματα '
+dateModified: '2016-08-22T08:08:53.893Z'
+title: Νευρο - Ακουστικά Προγράμματα
 publisher:
   name: Tomatis® Hellas
 description: >-
@@ -19,7 +19,7 @@ _type: Blurb
 ---
 ![Tomatis® Hellas](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9590c2-5e7a-4630-959d-407fe846f64c.png)
 
-### Νευρο - Ακουστικά Προγράμματα 
+### Νευρο - Ακουστικά Προγράμματα
 
 ### Tomatis(r) Hellas
 
