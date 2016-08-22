@@ -29,5 +29,8 @@ navigation:
   - name: Tomatis® Hellas / SchoolsTomatis® Hellas / Schools
     id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
     type: content
+  - name: Νευρο-Ακουστικά Προγράμματα Τomatis® Ηellas
+    id: 78bf0f86-aefa-4d8b-86a7-98584737bfba
+    type: content
 title: tomatis®  hellas / schools
 description: Νευρο - Ακουστικά Προγράμματα Τomatis®
