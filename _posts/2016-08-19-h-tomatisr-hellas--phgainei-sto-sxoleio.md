@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T22:38:17.118Z'
+datePublished: '2016-08-22T22:49:31.206Z'
 sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T22:38:16.185Z'
+dateModified: '2016-08-22T22:49:30.706Z'
 title: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
 publisher:
   name: Tomatis® Hellas
