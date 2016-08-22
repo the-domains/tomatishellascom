@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T22:46:58.395Z'
+datePublished: '2016-08-22T22:48:13.532Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T22:46:57.891Z'
+dateModified: '2016-08-22T22:48:12.891Z'
 title: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
 publisher:
   name: Tomatis® Hellas
@@ -20,7 +20,7 @@ _type: Blurb
 # Νευρο-Ακουστικά Προγράμματα Tomatis(r) Ηellas / Schools
 ![Tomatis® Hellas / Schools](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9590c2-5e7a-4630-959d-407fe846f64c.png)
 
-### **Τα Νευρο-Ακουστικά Προγράμματα Tomatis(r) Hellas / Schools**
+### **Τα Νευρο-Ακουστικά Προγράμματα Tomatis(r) Hellas / Schools:**
 
 * Βασίζονται, κυρίως, στις επιστημονικές αρχές που αναπτύχθηκαν από τον Δρ Alfred Tomatis (1920-2001).
 * Βελτιώνουν την αντίληψη και την ανάλυση των πληροφοριών που προσλαμβάνονται από τα αισθητήρια όργανα.
