@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T09:44:52.056Z'
+datePublished: '2016-08-22T09:53:05.734Z'
 sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T09:44:51.451Z'
+dateModified: '2016-08-22T09:53:04.790Z'
 title: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
 publisher:
   name: Tomatis® Hellas
@@ -42,16 +42,14 @@ _type: Blurb
 
 Τα **Νευρο - Ακουστικά Προγράμματα της Tomatis(r) Hellas, **εκτός από τον χώρο του Ψυχοπαιδαγωγικού Κέντρου"Διαδρομές Μάθησης Ελλάς - Tomatis(r) Ελλάς" εφαρμόζονται και σε: **Παιδικούς Σταθμούς, **σχολεία **γενικής** και **ειδικής εκπαίδευσης**, όλων των βαθμίδων -**Νηπιαγωγεία, Δημοτικά, Γυμνάσια, Λύκεια-.**
 
-### Επιστημονική Διεύθυνση Προγραμμάτων Tomatis(r) Hellas / Schools  
-_**Αικατερίνα Καλοστύπη**, BSc, PGD_
+### Επιστημονική Διεύθυνση Προγραμμάτων Tomatis(r) Hellas / Schools
 
+**Αικατερίνα Καλοστύπη, **_BSc, PGD_  
 Institute of Education -- University of London
 
-Ψυχοπαιδαγωγός
-
-Σύμβουλος Γνωστικής Ανάπτυξης & Εκπαίδευσης
-
-Licenced & Certified Tomatis(r) Consultant
+_Ψυχοπαιδαγωγός_  
+Σύμβουλος Γνωστικής Ανάπτυξης & Εκπαίδευσης  
+_Licenced & Certified Tomatis(r) Consultant_
 
 IARCTC / ATTAch Member
 
@@ -63,5 +61,14 @@ IARCTC / ATTAch Member
 Διεύθυνση: Ερμού 24α - Μαρκόπουλο 19003
 
 E-mail: [tomatishellas@gmail.com][0]
+
+**Για περισσότερες πληροφορίες, τα σχολεία και οι σύλλογοι γονέων και κηδεμόνων, μπορούν να επικοινωνούν μαζί μας: **  
+Tel: +30 2299 11 2171  
+e-mail: tomatishellas@gmail.com
+
+Για την Τomatis(r) Hellas / Schools  
+**Αικατερίνα Καλοστύπη, **_BSc, PGD_  
+_Ψυχοπαιδαγωγός_  
+_Licenced & Certified Tomatis(r) Consultant_
 
 [0]: mailto:tomatishellas@gmail.com
