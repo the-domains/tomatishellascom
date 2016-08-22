@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-22T22:11:20.254Z'
+datePublished: '2016-08-22T22:30:42.555Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
@@ -31,7 +32,7 @@ metadata:
   publisher: {}
   description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
   inLanguage: en
-dateModified: '2016-08-22T22:01:40.157Z'
+dateModified: '2016-08-22T22:30:41.900Z'
 title: Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
@@ -43,7 +44,7 @@ description: >-
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 starred: true
 url: tomatisr-hellas-schools/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Tomatis(r) Hellas / Schools
