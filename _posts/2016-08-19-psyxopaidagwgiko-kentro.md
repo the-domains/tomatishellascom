@@ -1,5 +1,9 @@
 ---
-id: 2186b2a8-61c1-4f83-be92-2830828aa98a
+datePublished: '2016-08-22T21:22:47.066Z'
+sourcePath: _posts/2016-08-19-psyxopaidagwgiko-kentro.md
+hasPage: true
+author: []
+via: {}
 metadata:
   datePublished: '2016-08-22T10:18:48.240Z'
   sourcePath: _posts/2016-08-19-psyxopaidagwgiko-kentro.md
@@ -14,19 +18,15 @@ metadata:
   description: >-
     Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας
     υποδέχεται για παροχή πληροφοριών και συμβουλών, χωρίς καμία δέσμευση.
-dateModified: '2016-08-22T21:09:43.480Z'
+dateModified: '2016-08-22T21:21:29.370Z'
 title: Επικοινωνία
-datePublished: '2016-08-22T21:09:44.101Z'
-author: []
-description: >-
-  Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας
-  υποδέχεται για παροχή πληροφοριών και συμβουλών, χωρίς καμία δέσμευση.
+id: 2186b2a8-61c1-4f83-be92-2830828aa98a
 publisher:
   name: Tomatis® Hellas
   url: 'http://tomatishellas.com'
-via: {}
-sourcePath: _posts/2016-08-19-psyxopaidagwgiko-kentro.md
-hasPage: true
+description: >-
+  Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας
+  υποδέχεται για παροχή πληροφοριών και συμβουλών, χωρίς καμία δέσμευση.
 starred: false
 url: epikoinwnia/index.html
 _type: Blurb
@@ -42,3 +42,5 @@ _Καλέστε μας για να οργανώσουμε μια συνάντη�
 _Τηλέφωνο:_ +30 2299 11 21 71
 
 _Διεύθυνση:_ Ερμού 24α - Μαρκόπουλο 19003
+
+<iframe src="https://the-grid.github.io/ed-location/?latitude=37.88409232453584&amp;longitude=23.930894136428833&amp;zoom=17" style=""></iframe>
