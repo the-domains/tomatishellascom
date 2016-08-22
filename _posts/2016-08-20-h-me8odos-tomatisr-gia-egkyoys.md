@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T12:52:49.703Z'
+datePublished: '2016-08-22T10:19:03.303Z'
 sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
 hasPage: true
 author: []
@@ -18,7 +18,7 @@ metadata:
   publisher: {}
   via: {}
   sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-dateModified: '2016-08-21T10:12:12.092Z'
+dateModified: '2016-08-22T10:19:01.504Z'
 title: Μέθοδος Τomatis® για εγκύους
 id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
 publisher: {}
