@@ -1,36 +1,53 @@
 ---
-datePublished: '2016-08-22T10:55:26.370Z'
-sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-hasPage: true
-author: []
-via: {}
+id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
 metadata:
+  datePublished: '2016-08-22T10:55:26.370Z'
+  sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
+  hasPage: true
+  author: []
+  via: {}
+  metadata:
+    description: >-
+      Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί
+      όλες τις ψυχολογικές και συναισθηματικές καταστάσεις που βιώνει, τόσο τις
+      θετικές όσο και τις αρνητικές. Εξ αυτού, είναι σημαντικό, η μέλλουσα
+      μητέρα να βιώνει τις καλύτερες συνθήκες χαλάρωσης και γαλήνης κατά την
+      διάρκεια αυτής της εξαιρετικής περιόδου επικοινωνίας.
+    dateModified: '2016-08-20T20:58:38.085Z'
+    datePublished: '2016-08-20T20:58:38.085Z'
+    title: Η Μέθοδος Τomatis® για εγκύους
+    author: []
+    publisher: {}
+    via: {}
+    sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
+  dateModified: '2016-08-22T10:55:26.370Z'
+  title: Μέθοδος Τomatis® για εγκύους
+  id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
+  publisher: {}
   description: >-
     Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί
     όλες τις ψυχολογικές και συναισθηματικές καταστάσεις που βιώνει, τόσο τις
     θετικές όσο και τις αρνητικές. Εξ αυτού, είναι σημαντικό, η μέλλουσα μητέρα
     να βιώνει τις καλύτερες συνθήκες χαλάρωσης και γαλήνης κατά την διάρκεια
     αυτής της εξαιρετικής περιόδου επικοινωνίας.
-  dateModified: '2016-08-20T20:58:38.085Z'
-  datePublished: '2016-08-20T20:58:38.085Z'
-  title: Η Μέθοδος Τomatis® για εγκύους
-  author: []
-  publisher: {}
-  via: {}
-  sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
-dateModified: '2016-08-22T10:55:25.736Z'
+dateModified: '2016-08-22T16:24:32.603Z'
 title: Μέθοδος Τomatis® για εγκύους
-id: 3a6042f3-a96a-47b1-a68b-125a6faada3d
-publisher: {}
+datePublished: '2016-08-22T16:24:32.729Z'
+author: []
 description: >-
   Είναι αποδεδειγμένο πως, όταν η μητέρα είναι έγκυος, μεταδίδει στο παιδί όλες
   τις ψυχολογικές και συναισθηματικές καταστάσεις που βιώνει, τόσο τις θετικές
   όσο και τις αρνητικές. Εξ αυτού, είναι σημαντικό, η μέλλουσα μητέρα να βιώνει
   τις καλύτερες συνθήκες χαλάρωσης και γαλήνης κατά την διάρκεια αυτής της
   εξαιρετικής περιόδου επικοινωνίας.
+publisher: {}
+via: {}
 starred: false
-url: h-me8odos-tomatisr-gia-egkyoys/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-20-h-me8odos-tomatisr-gia-egkyoys.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Μέθοδος Τomatis(r) για εγκύους
