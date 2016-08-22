@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-21T21:53:06.278Z'
+datePublished: '2016-08-21T21:54:55.303Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T21:53:05.668Z'
-title: ''
+dateModified: '2016-08-21T21:54:54.314Z'
+title: Νευρο - Ακουστικά Προγράμματα Tomatis® Hellas
 publisher:
   name: Tomatis® Hellas
 description: >-
@@ -26,6 +26,8 @@ _type: Blurb
 
 ---
 ![Tomatis® Hellas](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9590c2-5e7a-4630-959d-407fe846f64c.png)
+
+### Νευρο - Ακουστικά Προγράμματα Tomatis(r) Hellas
 
 Η **Μέθοδος Τomatis(r)**, η Παιδαγωγική της Ακρόασης, είναι ένα δοκιμασμένο και ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει πολλαπλά οφέλη στα παιδιά και όχι μόνον.   
 **Τώρα, η Τomatis(r) Ηellas, επίσημο Κέντρο Εφαρμογής της Μεθόδου Τomatis(r), προσφέρει την Μέθοδο Τomatis(r) ... στα σχολεία!**  
