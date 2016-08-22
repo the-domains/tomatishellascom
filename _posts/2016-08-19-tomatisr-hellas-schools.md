@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T07:38:51.655Z'
+datePublished: '2016-08-22T09:45:19.202Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 author: []
 via: {}
@@ -30,16 +30,15 @@ metadata:
   publisher: {}
   description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
   inLanguage: en
-dateModified: '2016-08-22T07:38:34.050Z'
+dateModified: '2016-08-22T09:45:18.112Z'
 title: Νευρο-Ακουστικά Προγράμματα-Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
-publisher:
-  url: 'http://tomatishellas.com'
+publisher: {}
 description: >-
   Η Μέθοδος Τomatis®, η Παιδαγωγική της Ακρόασης, είναι ένα δοκιμασμένο και
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
