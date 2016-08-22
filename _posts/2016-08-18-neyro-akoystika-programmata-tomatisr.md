@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-22T22:11:32.356Z'
+datePublished: '2016-08-22T22:31:19.652Z'
 sourcePath: _posts/2016-08-18-neyro-akoystika-programmata-tomatisr.md
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T22:01:56.093Z'
+dateModified: '2016-08-22T22:31:18.735Z'
 title: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
 publisher:
   name: Tomatis® Hellas
@@ -13,7 +14,6 @@ description: >-
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 starred: false
-url: neyro-akoystika-programmata-tomatisr-hellas-schools/index.html
 _type: Blurb
 
 ---
