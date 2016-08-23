@@ -26,5 +26,8 @@ navigation:
   - name: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
     id: 1200aa63-6fc5-42d5-b6ef-2adfeb473a74
     type: content
+  - name: ' Contact Us'
+    id: ea59262d-bbd2-4411-b6ab-10a034270e26
+    type: content
 title: tomatis®  hellas / schools
 description: Νευρο - Ακουστικά Προγράμματα Τomatis®
