@@ -1,23 +1,20 @@
 ---
-datePublished: '2016-08-23T21:22:39.670Z'
+datePublished: '2016-08-23T21:24:52.199Z'
 sourcePath: _posts/2016-08-23-ygeia-iatrika-8emata-ti-einai-h-me8odos-tomatisr.md
 inFeed: true
-isBasedOnUrl: 'http://www.mesogianews.gr/health/7614/Ti_einai_i_METhODOS_Tomatis'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-23T21:22:23.091Z'
-title: Υγεία - Ιατρικά θέματα - Τι είναι η ΜΕΘΟΔΟΣ Tomatis®
+dateModified: '2016-08-23T21:24:51.267Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://www.mesogianews.gr'
-  name: Mesogianews
-  favicon: 'http://www.mesogianews.gr/favicon.ico'
-  domain: www.mesogianews.gr
+publisher: {}
 description: Τι είναι η ΜΕΘΟΔΟΣ Tomatis®
 inLanguage: el
+hasPage: true
 starred: false
+url: ygeia-iatrika-8emata-ti-einai-h-me8odos-tomatisr/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
