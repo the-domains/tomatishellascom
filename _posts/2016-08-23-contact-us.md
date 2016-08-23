@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-23T09:32:21.466Z'
+datePublished: '2016-08-23T09:34:16.571Z'
+sourcePath: _posts/2016-08-23-contact-us.md
 inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-23T09:32:20.614Z'
+dateModified: '2016-08-23T09:34:15.761Z'
 title: ' Contact Us'
 publisher:
   name: Tomatis® Hellas
   url: 'http://tomatishellas.com'
 description: Το Ψυχοπαιδαγωγικό Κέντρο
-sourcePath: _posts/2016-08-23-contact-us.md
-hasPage: true
 starred: false
-url: contact-us/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Contact Us
