@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-22T23:52:03.970Z'
+datePublished: '2016-08-23T00:00:59.718Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 inFeed: true
-hasPage: false
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -32,7 +32,7 @@ metadata:
   publisher: {}
   description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
   inLanguage: en
-dateModified: '2016-08-22T23:50:23.768Z'
+dateModified: '2016-08-23T00:00:59.077Z'
 title: Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
@@ -43,7 +43,8 @@ description: >-
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 starred: true
-_type: Blurb
+url: tomatisr-hellas-schools/index.html
+_type: Article
 
 ---
 # Tomatis(r) Hellas / Schools
