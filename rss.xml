@@ -4,7 +4,7 @@
         <description><![CDATA[tomatis®  hellas / schools]]></description>
         <link>http://tomatishellas.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 08:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 09:02:11 GMT</lastBuildDate>
         <atom:link href="http://tomatishellas.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tomatis® Hellas / Schools]]></title>
@@ -26,13 +26,6 @@
             <link>http://tomatishellas.com/neyro-akoystika-programmata-tomatisr-hellas-schools/index.html</link>
             <guid isPermaLink="false">df84732d-415c-48fc-836b-f4a70464940f</guid>
             <pubDate>Tue, 23 Aug 2016 08:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Επικοινωνία]]></title>
-            <description><![CDATA[<article><h1>Επικοινωνία</h1><p>Το Ψυχοπαιδαγωγικό Κέντρο “Διαδρομές Μάθησης Ελλάς – Tomatis® Ελλάς” σας υποδέχεται για παροχή πληροφοριών και συμβουλών, χωρίς καμία δέσμευση.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf95444-079e-4c1c-8de9-cd343674f9fb.jpg"></article>]]></description>
-            <link>http://tomatishellas.com/epikoinwnia/index.html</link>
-            <guid isPermaLink="false">f21e487c-c6cb-4dc7-bbf6-d335881a3bbd</guid>
-            <pubDate>Tue, 23 Aug 2016 08:45:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
