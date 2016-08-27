@@ -1,4 +1,3 @@
-layout_spectrum: 0.8151670866645873
 typography_spectrum: 0.7996898822020739
 color:
   brandStrength: 0.4122780286706984
@@ -11,6 +10,7 @@ color:
     - '#417378'
     - '#A4CFBE'
     - '#F4F7D9'
+layout_spectrum: 0.8151670866645873
 author:
   name: '© Tomatis® Hellas - 2016 '
   email: kalostypi@icloud.com
@@ -28,6 +28,9 @@ navigation:
     type: content
   - name: ' Contact Us'
     id: ea59262d-bbd2-4411-b6ab-10a034270e26
+    type: content
+  - name: Τι είναι η Μέθοδος Tomatis®
+    id: 91345c26-c175-4184-aed1-04f26c87868b
     type: content
 title: tomatis®  hellas / schools
 description: Νευρο - Ακουστικά Προγράμματα Τomatis®
