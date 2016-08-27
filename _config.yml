@@ -1,16 +1,16 @@
 layout_spectrum: 0.8151670866645873
-typography_spectrum: 0.4111018425319344
+typography_spectrum: 0.7996898822020739
 color:
-  brandStrength: 0.12352592800743878
-  lightness: 0.1768548241816461
-  saturation: 0.6280389784369618
-  rhythmicContrast: 0.5467273842077702
+  brandStrength: 0.4122780286706984
+  lightness: 0.5783149218186736
+  saturation: 0.00857063359580934
+  rhythmicContrast: 0.4991702123079449
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
 author:
   name: '© Tomatis® Hellas - 2016 '
   email: kalostypi@icloud.com
