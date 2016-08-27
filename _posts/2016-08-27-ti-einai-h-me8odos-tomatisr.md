@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-27T09:50:44.600Z'
+datePublished: '2016-08-27T09:52:05.994Z'
 author: []
 via: {}
-dateModified: '2016-08-27T09:50:43.650Z'
+dateModified: '2016-08-27T09:52:04.095Z'
 title: Τι είναι η Μέθοδος Tomatis®
 id: 91345c26-c175-4184-aed1-04f26c87868b
 publisher:
@@ -18,12 +18,11 @@ description: >-
   Ακρόασης και η μακρόχρονη ερευνητική του εργασία κατέληξε το 1957, στην
   αναγνώριση του Φαινομένου Tomatis (Tomatis Effect)και των τριών Νόμων Tomatis,
   από την Γαλλική Ακαδημία Επιστημών και Ιατρικής.
-starred: false
 sourcePath: _posts/2016-08-27-ti-einai-h-me8odos-tomatisr.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: ti-einai-h-me8odos-tomatisr/index.html
+_type: Blurb
 
 ---
 # Τι είναι η _Μέθοδος Tomatis(r)_
