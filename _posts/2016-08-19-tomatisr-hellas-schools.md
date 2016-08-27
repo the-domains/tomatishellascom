@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T10:20:28.668Z'
+datePublished: '2016-08-27T10:20:32.248Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-27T10:20:27.355Z'
+dateModified: '2016-08-27T10:20:31.555Z'
 title: Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
@@ -15,7 +15,7 @@ description: >-
   Η Μέθοδος Τomatis®, η Παιδαγωγική της Ακρόασης, είναι ένα δοκιμασμένο και
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
-starred: false
+starred: true
 _type: Blurb
 
 ---
