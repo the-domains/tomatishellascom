@@ -1,38 +1,11 @@
 ---
-datePublished: '2016-08-23T11:42:58.473Z'
+datePublished: '2016-08-27T10:20:28.668Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-metadata:
-  datePublished: '2016-08-20T19:56:14.405Z'
-  sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
-  isBasedOnUrl: 'http://tomatishellas.gr'
-  hasPage: true
-  keywords:
-    - nginx
-    - configuration
-    - server
-    - support
-    - org
-    - installed
-    - web
-    - commercial
-    - documentation
-    - please
-  related: []
-  author: []
-  via: {}
-  '@context': 'http://schema.org'
-  dateModified: '2016-08-20T19:56:14.405Z'
-  title: Tomatis®  Hellas / Schools
-  '@type': MediaObject
-  app_links: []
-  publisher: {}
-  description: 'Τα Νευρο-Ακουστικά Προγράμματα Tomatis® Hellas / Schools:'
-  inLanguage: en
-dateModified: '2016-08-23T11:42:57.766Z'
+dateModified: '2016-08-27T10:20:27.355Z'
 title: Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
@@ -42,7 +15,7 @@ description: >-
   Η Μέθοδος Τomatis®, η Παιδαγωγική της Ακρόασης, είναι ένα δοκιμασμένο και
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
-starred: true
+starred: false
 _type: Blurb
 
 ---
