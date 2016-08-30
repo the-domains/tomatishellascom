@@ -1,8 +1,23 @@
-typography_spectrum: 0.7996898822020739
+author:
+  name: '© Tomatis® Hellas - 2016 '
+  email: kalostypi@icloud.com
+  url: 'http://tomatishellas.com'
+title: tomatis®  hellas / schools
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.4122780286706984
-  lightness: 0.5783149218186736
   saturation: 0.00857063359580934
+  brandStrength: 0.4122780286706984
   rhythmicContrast: 0.4991702123079449
   brandColors:
     - '#6C6E58'
@@ -10,12 +25,9 @@ color:
     - '#417378'
     - '#A4CFBE'
     - '#F4F7D9'
-layout_spectrum: 0.8151670866645873
-author:
-  name: '© Tomatis® Hellas - 2016 '
-  email: kalostypi@icloud.com
-  url: 'http://tomatishellas.com'
-name: Tomatis® Hellas / Schools
+  lightness: 0.5783149218186736
+typography_spectrum: 0.7996898822020739
+description: Νευρο - Ακουστικά Προγράμματα Τomatis®
 navigation:
   - name: Tomatis® Hellas / Schools
     id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
@@ -32,5 +44,5 @@ navigation:
   - name: Τι είναι η Μέθοδος Tomatis®
     id: 91345c26-c175-4184-aed1-04f26c87868b
     type: content
-title: tomatis®  hellas / schools
-description: Νευρο - Ακουστικά Προγράμματα Τomatis®
+layout_spectrum: 0.7747909
+name: Tomatis® Hellas / Schools
