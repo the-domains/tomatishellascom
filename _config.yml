@@ -1,8 +1,37 @@
+typography_spectrum: 0.7996898822020739
+color:
+  saturation: 0.00857063359580934
+  brandStrength: 0.4122780286706984
+  rhythmicContrast: 0.4991702123079449
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  lightness: 0.5783149218186736
+layout_spectrum: 0.7747909
 author:
   name: '© Tomatis® Hellas - 2016 '
   email: kalostypi@icloud.com
   url: 'http://tomatishellas.com'
-title: tomatis®  hellas / schools
+name: Tomatis® Hellas / Schools
+navigation:
+  - name: Tomatis® Hellas / Schools
+    id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
+    type: content
+  - name: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
+    id: df84732d-415c-48fc-836b-f4a70464940f
+    type: content
+  - name: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
+    id: 1200aa63-6fc5-42d5-b6ef-2adfeb473a74
+    type: content
+  - name: Τι είναι η Μέθοδος Tomatis®
+    id: 91345c26-c175-4184-aed1-04f26c87868b
+    type: content
+  - name: ' Contact Us'
+    id: ea59262d-bbd2-4411-b6ab-10a034270e26
+    type: content
 collections:
   - index:
       path: /
@@ -15,34 +44,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.00857063359580934
-  brandStrength: 0.4122780286706984
-  rhythmicContrast: 0.4991702123079449
-  brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  lightness: 0.5783149218186736
-typography_spectrum: 0.7996898822020739
+title: tomatis®  hellas / schools
 description: Νευρο - Ακουστικά Προγράμματα Τomatis®
-navigation:
-  - name: Tomatis® Hellas / Schools
-    id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
-    type: content
-  - name: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
-    id: df84732d-415c-48fc-836b-f4a70464940f
-    type: content
-  - name: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
-    id: 1200aa63-6fc5-42d5-b6ef-2adfeb473a74
-    type: content
-  - name: ' Contact Us'
-    id: ea59262d-bbd2-4411-b6ab-10a034270e26
-    type: content
-  - name: Τι είναι η Μέθοδος Tomatis®
-    id: 91345c26-c175-4184-aed1-04f26c87868b
-    type: content
-layout_spectrum: 0.7747909
-name: Tomatis® Hellas / Schools
