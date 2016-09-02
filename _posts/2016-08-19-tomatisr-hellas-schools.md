@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T10:20:32.248Z'
+datePublished: '2016-08-30T23:38:41.591Z'
 sourcePath: _posts/2016-08-19-tomatisr-hellas-schools.md
 inFeed: true
-hasPage: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T10:20:31.555Z'
+dateModified: '2016-08-30T23:36:21.973Z'
 title: Tomatis® Hellas / Schools
 id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
 publisher:
@@ -16,7 +16,8 @@ description: >-
   ερευνητικά εδραιωμένο, πρωτοποριακό εκπαιδευτικό πρόγραμμα, το οποίο προσφέρει
   πολλαπλά οφέλη στα παιδιά και όχι μόνον.
 starred: true
-_type: Blurb
+url: tomatisr-hellas-schools/index.html
+_type: Article
 
 ---
 # Tomatis(r) Hellas / Schools
