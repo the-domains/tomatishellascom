@@ -1,20 +1,21 @@
 ---
-datePublished: '2016-08-23T11:03:59.137Z'
-sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
-inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-23T11:03:58.505Z'
+id: 1200aa63-6fc5-42d5-b6ef-2adfeb473a74
+dateModified: '2016-08-30T23:37:00.428Z'
 title: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
-publisher:
-  name: Tomatis® Hellas
+datePublished: '2016-08-30T23:38:38.331Z'
+author: []
+inFeed: false
+hasPage: true
 description: >-
   Η Τomatis® Ηellas, επίσημο Κέντρο Εφαρμογής της Μεθόδου Τomatis®, προσφέρει
   την Μέθοδο Τomatis®, τώρα και … στα σχολεία!
+publisher:
+  name: Tomatis® Hellas
+via: {}
 starred: false
+sourcePath: _posts/2016-08-19-h-tomatisr-hellas--phgainei-sto-sxoleio.md
 url: h-tomatisr-hellas--phgainei-sto-sxoleio/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## η Tomatis(r) Ηellas ... πηγαίνει στο σχολείο!
