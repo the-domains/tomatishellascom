@@ -20,11 +20,11 @@ navigation:
   - name: Tomatis® Hellas / Schools
     id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
     type: content
-  - name: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
-    id: df84732d-415c-48fc-836b-f4a70464940f
-    type: content
   - name: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
     id: 1200aa63-6fc5-42d5-b6ef-2adfeb473a74
+    type: content
+  - name: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
+    id: df84732d-415c-48fc-836b-f4a70464940f
     type: content
   - name: Τι είναι η Μέθοδος Tomatis®
     id: 91345c26-c175-4184-aed1-04f26c87868b
