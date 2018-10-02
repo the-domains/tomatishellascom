@@ -1,36 +1,42 @@
-typography_spectrum: 0.7996898822020739
+typography_spectrum: 0.17302524197302613
 color:
-  saturation: 0.00857063359580934
-  brandStrength: 0.4122780286706984
-  rhythmicContrast: 0.4991702123079449
+  saturation: 0.2156936212603261
+  brandStrength: 0.06733828676938272
+  rhythmicContrast: 0.07309921215325225
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  lightness: 0.5783149218186736
-layout_spectrum: 0.7747909
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.22259209694663562
+layout_spectrum: 0.770144138595661
 author:
-  name: '© Tomatis® Hellas - 2016 '
-  email: kalostypi@icloud.com
+  name: '© Learning Ways Hellas / Tomatis® Hellas - 2018 '
+  email: info@tomatishellas.gr
   url: 'http://tomatishellas.com'
-name: Tomatis® Hellas / Schools
+name: 'Learning Ways Hellas / Tomatis® Hellas '
 navigation:
-  - name: Tomatis® Hellas / Schools
-    id: 692a862b-b3cb-4d5a-9e58-d994a1b0bda1
+  - name: Ψυχοπαιδαγωγικό Κέντρο LWH-TH
+    id: 41ced88b-2039-4ec0-aa55-ce737e403974
     type: content
-  - name: η Tomatis® Ηellas … πηγαίνει στο σχολείο!
-    id: 1200aa63-6fc5-42d5-b6ef-2adfeb473a74
+  - name: Νευρο-Κινητική Ετοιμότητα … για Μάθηση
+    id: a3feec77-4748-4464-9210-a7c23141b04b
     type: content
-  - name: Νευρο-Ακουστικά Προγράμματα Tomatis® Ηellas / Schools
-    id: df84732d-415c-48fc-836b-f4a70464940f
+  - name: Νευρο-Ακουστικά Προγράμματα Τomatis®
+    id: 15aa7521-edae-4f12-af4e-4da0689dbbf4
     type: content
-  - name: Τι είναι η Μέθοδος Tomatis®
-    id: 91345c26-c175-4184-aed1-04f26c87868b
+  - name: Ανακαλύψτε το ...Forbrain®
+    id: 84c0f9b1-5918-4c1d-b13a-8d914c733b71
     type: content
-  - name: ' Contact Us'
-    id: ea59262d-bbd2-4411-b6ab-10a034270e26
+  - name: Ανακαλύψτε το... SOUNDSORY®
+    id: 951343aa-e9e3-48f2-bb30-cafcf19f0abe
+    type: content
+  - name: Contact Us
+    id: 302545d4-2a14-4ae7-8335-b32e25435048
+    type: content
+  - name: 'Our blog: Με λίγα λόγια …'
+    id: af2d36b9-9039-42b0-9324-ee21fcdc2625
     type: content
 collections:
   - index:
@@ -44,5 +50,40 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: tomatis®  hellas / schools
-description: Νευρο - Ακουστικά Προγράμματα Τomatis®
+title: 'Learning Ways Hellas / Tomatis®  Hellas  '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05600811-7e41-41e4-8f60-9edf857d9ec0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/05600811-7e41-41e4-8f60-9edf857d9ec0.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Προγράμματα Νευρο-Κινητικής Ετοιμότητας για Μάθηση - NMRfL® / Νευρο-Ακουστικά
+  Προγράμματα Τomatis®
+purpose:
+  - type: contact
+    url: 'tel:+302299112171'
+    label: 'Tel: +30 2299 11 21 71'
+  - type: contact
+    url: 'mailto:schools@tomatishellas.gr'
+    label: Contact us
+github: true
