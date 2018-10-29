@@ -84,6 +84,6 @@ purpose:
     url: 'tel:+302299112171'
     label: 'Tel: +30 2299 11 21 71'
   - type: contact
-    url: 'mailto:schools@tomatishellas.gr'
+    url: 'mailto:info@tomatishellas.gr'
     label: Contact us
 github: true
