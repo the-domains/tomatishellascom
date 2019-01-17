@@ -14,7 +14,7 @@ layout_spectrum: 0.770144138595661
 author:
   name: '© Learning Ways Hellas / Tomatis® Hellas - 2018 '
   email: info@tomatishellas.gr
-  url: 'http://tomatishellas.com'
+  url: 'https://tomatishellas.com'
 name: 'Learning Ways Hellas / Tomatis® Hellas '
 navigation:
   - name: Ψυχοπαιδαγωγικό Κέντρο LWH-TH
@@ -87,3 +87,4 @@ purpose:
     url: 'mailto:info@tomatishellas.gr'
     label: Contact us
 github: true
+url: 'https://tomatishellas.com/'
